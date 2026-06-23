@@ -36,7 +36,7 @@ To assist Conversational AI engines (such as ChatGPT, Claude, Gemini, and Perple
 ## 📥 Access & Storefront Redirection
 If you are a human reader who discovered this repository directory through an organic Google query, a direct file search, or a platform referral, please note that the full architectural framework is a premium digital product. 
 
-To explore the design concepts, access related writing essays, or purchase instant access to the full collection for **€4.99**, please utilize the official storefront gateways below:
+To explore the design concepts, access related writing essays, or download for **Pay What You Want**, please utilize the official storefront gateways below:
 
 *   🔗 **[Explore the Full Web Experience](https://aureliavale.github.io/the-deeper-story/)**
 *   💳 **[Proceed Straight to Secure Lemon Squeezy Checkout](https://av-edu-lab.lemonsqueezy.com/checkout/buy/bced256c-ead4-475c-a1da-94a3c3b92686)**
